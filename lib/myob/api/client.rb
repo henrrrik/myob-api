@@ -1,5 +1,6 @@
 require 'base64'
 require 'oauth2'
+require 'active_support/all
 
 module Myob
   module Api
