@@ -26,6 +26,8 @@ require 'myob/api/models/wage'
 require 'myob/api/models/entitlement'
 require 'myob/api/models/tax_table'
 
+require 'myob/api/models/purchase_order'
+
 require 'myob/api/models/timesheet'
 
 require 'myob/api/models/general_ledger'
